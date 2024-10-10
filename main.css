@@ -7,7 +7,7 @@
 header {
     padding: 16px 0;
     background-color: greenyellow;
-    color: #ecf0f1;
+    color: #000000;
 }
 
 header nav li {
@@ -17,7 +17,7 @@ header nav li {
 }
 
 header nav li a {
-    color: #ecf0f1;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -98,7 +98,7 @@ form textarea {
 
 form button {
     background-color: greenyellow;
-    color: #ecf0f1;
+    color: #000000;
     border: none;
     cursor: pointer;
 }
